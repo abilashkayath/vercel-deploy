@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started !
+          Checking !
           {/* <code className={styles.code}>pages/index.js</code> */}
         </p>
 
